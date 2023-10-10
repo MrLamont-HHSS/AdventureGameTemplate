@@ -1,7 +1,5 @@
 public class Controller {
     private Map map;
-    private Location currentLocation;
-    private char currentDirection;
     private View theView;
 
     public Controller(String filename, View theView){
