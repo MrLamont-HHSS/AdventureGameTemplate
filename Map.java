@@ -10,4 +10,16 @@ public class Map {
     public Location getLocation(String name){
         
     }
+
+    public void turnLeft(){
+
+    }
+
+    public void turnRight(){
+
+    }
+
+    public BufferedImage getImage(){
+
+    }
 }
